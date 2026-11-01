@@ -313,6 +313,3 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
-  <b>Built with ❤️ by <a href="https://github.com/yuvrajsharma96">Yuvraj Sharma</a></b>
-</div>
